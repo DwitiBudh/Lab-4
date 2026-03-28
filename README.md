@@ -201,6 +201,3 @@ Main implementation file:
 * Emotion detection may vary in real-world scenarios
 
 ---
-
-
-Just tell me 👍
