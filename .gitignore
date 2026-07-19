@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+*.jpg
+*.png
+deploy.prototxt
+face_detector.caffemodel
+xray_raw/
+structured_data/
+data_split/
