@@ -1,0 +1,12 @@
+# Production Core and Deep Learning packages
+tensorflow>=2.15.0
+opencv-python-headless<5.0.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+numpy>=1.22.0
+deepface>=0.0.80
+
+# Production API Service packages
+fastapi>=0.100.0
+uvicorn>=0.20.0
+python-multipart>=0.0.6
